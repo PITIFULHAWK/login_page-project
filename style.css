@@ -2,7 +2,7 @@
   border: 1px solid black;
   width: 400px;
   height: 500px;
-  background: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fbuildings&psig=AOvVaw3euZjzNH4WoQSBBPEMvJXU&ust=1710711677455000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCICsourf-YQDFQAAAAAdAAAAABAD');
+  background: url('./istockphoto-1135793300-612x612.jpg');
   color: white;
   border-radius: 20px;
   box-shadow: 0px 0px 20px rgba(0,0,0,0.75);
@@ -60,4 +60,9 @@ button{
   color: white;
   font-size: 12px;
   text-transform: uppercase;
+}
+
+body{
+  justify-content: center;
+  align-items: center;
 }
