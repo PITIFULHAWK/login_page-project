@@ -9,6 +9,8 @@
   background-size: cover;
   background-position: center;
   overflow: hidden;
+  justify-content: center;
+  align-items: center;
 }
 
 form{
